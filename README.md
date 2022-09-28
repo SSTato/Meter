@@ -29,5 +29,5 @@ Use yolov5 to detect pointer scale
 </details>
 <details>
   <summary>模型文件可在谷歌网盘中下载 (click to expand)</summary>
-<p> 链接：[https://www.aliyundrive.com/s/iiKGjmWWbrn](https://drive.google.com/file/d/15_Qat9FIlltPk1XhuWq8VLSqGHxpG9nb/view?usp=sharing) </p>
+<p> 链接：https://drive.google.com/file/d/15_Qat9FIlltPk1XhuWq8VLSqGHxpG9nb/view?usp=sharing </p>
 </details>
