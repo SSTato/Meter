@@ -21,6 +21,13 @@ Use yolov5 to detect pointer scale
 </details>
 
 ### 文件下载
-训练所需的数据集可在阿里网盘中下载。
-链接：https://www.aliyundrive.com/s/iiKGjmWWbrn
-提取码：d46b
+
+<details>
+  <summary>训练所需的数据集可在阿里网盘中下载 (click to expand)</summary>
+<p> 链接：https://www.aliyundrive.com/s/iiKGjmWWbrn </p>
+<p>提取码：d46b </p>
+</details>
+<details>
+  <summary>模型文件可在谷歌网盘中下载 (click to expand)</summary>
+<p> 链接：[https://www.aliyundrive.com/s/iiKGjmWWbrn](https://drive.google.com/file/d/15_Qat9FIlltPk1XhuWq8VLSqGHxpG9nb/view?usp=sharing) </p>
+</details>
