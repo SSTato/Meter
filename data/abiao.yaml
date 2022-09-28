@@ -1,0 +1,10 @@
+
+train: data/abiao/images  # train images (relative to 'path') 128 images
+val: data/abiao/images  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 16  # number of classes
+names: ['A', 'ZZ', 'V', 'YB', 'GUAN', 'KAI', 'BG', 'ZUO', 'ZHONG', 'YOU', 'ZD', 'TING', 'SD', 'LIANG', 'MIE', 'KD']
+
+
+
