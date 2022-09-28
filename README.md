@@ -19,3 +19,8 @@ Use yolov5 to detect pointer scale
 <p align="left"><img width="800" src="https://github.com/SSTato/Meter/blob/master/zhizhen/02.PNG"></p>
 
 </details>
+
+### 文件下载
+训练所需的数据集可在阿里网盘中下载。
+链接：https://www.aliyundrive.com/s/iiKGjmWWbrn
+提取码：d46b
